@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 .perspective {
-  perspective: 1200px;
+  perspective: 1500px;
 }
 
 .transform-style-3d {
